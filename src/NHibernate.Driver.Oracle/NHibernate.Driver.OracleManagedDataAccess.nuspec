@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>NHibernate.Driver.OracleManagedDataAccess</id>
+    <version>1.0.0</version>
+    <authors>vigoss</authors>
+    <licenseUrl>https://opensource.org/licenses/Apache-2.0</licenseUrl>
+    <projectUrl>https://github.com/icsharp/NHibernate.Oracle</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Latest Oracle ManagedDataAccess driver for NHibernate</description>
+    <releaseNotes>Upgrade Official Oracle ODP.NET, Managed Driver</releaseNotes>
+    <tags>NHibernate Oracle ManagedDataAccess</tags>
+  </metadata>
+</package>
