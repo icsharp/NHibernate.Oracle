@@ -1,5 +1,5 @@
 # NHibernate.Oracle
-This repo is forked from nhibernate/NHibernate.Oracle, and update to latest Official Oracle ODP.NET, Managed Driver.
+This repo is forked from [nhibernate/NHibernate.Oracle](https://github.com/nhibernate/NHibernate.Oracle), and update to latest [Official Oracle ODP.NET, Managed Driver](https://www.nuget.org/packages/Oracle.ManagedDataAccess/).
 ### Install Package
 ```
 Install-Package NHibernate.Driver.OracleManagedDataAccess
